@@ -1,0 +1,55 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "08996b1b3030595624dbb1fc5f987ffe",
+    "packages": [
+        {
+            "name": "arkosnoemarenom/composer-package-example",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/arkosnoemarenom/composer-package-example.git",
+                "reference": "ac53416fff8fee98a1ef71a57463942fff369681"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/arkosnoemarenom/composer-package-example/zipball/ac53416fff8fee98a1ef71a57463942fff369681",
+                "reference": "ac53416fff8fee98a1ef71a57463942fff369681",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.2.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "ComposerPackageExample": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "Jorge Alberto Jaime Coria",
+                    "email": "jorge.jaime@gmail.com"
+                }
+            ],
+            "description": "My first composer package",
+            "support": {
+                "source": "https://github.com/arkosnoemarenom/composer-package-example/tree/1.0.0",
+                "issues": "https://github.com/arkosnoemarenom/composer-package-example/issues"
+            },
+            "time": "2021-04-29T03:13:38+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}

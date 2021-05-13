@@ -1,0 +1,24 @@
+{
+    "name": "arkosnoemarenom/library-composer-package-example",
+    "description": "another composer package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jorge Alberto Jaime Coria",
+            "email": "jorge.a.jaime.c@gmail.com",
+            "role": "owner"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "arkosnoemarenom/composer-package-example": "^1.0.0"
+    },
+    "repositories": [
+        {
+            "name": "arkosnoemarenom/composer-package-example",
+            "type": "vcs",
+            "url": "https://github.com/arkosnoemarenom/composer-package-example.git"
+        }
+    ]
+}
