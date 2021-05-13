@@ -10,7 +10,7 @@
             "role": "owner"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "arkosnoemarenom/composer-package-example": "^1.0.0"
     },

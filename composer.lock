@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "08996b1b3030595624dbb1fc5f987ffe",
+    "content-hash": "341a9015ab2335db1a3fe309bd894114",
     "packages": [
         {
             "name": "arkosnoemarenom/composer-package-example",
@@ -45,7 +45,7 @@
     ],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
